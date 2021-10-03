@@ -1,13 +1,8 @@
-## Title
-    Same as Title of the issue you solved. 
+Issue: ISSUENUMBER 
 
-## Description - 
+Commands that you used to complete this issue.
 
-    Issue: ISSUENUMBER
-
-    List out all the commands that you used to complete this task from very beginning.
-
-    -
-    -
-    -
+-
+-
+-
 
