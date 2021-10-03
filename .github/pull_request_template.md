@@ -1,6 +1,6 @@
-Issue : Issue number. 
+Issue: ISSUENUMBER 
 
-Commands that I used to complete this issue.
+Commands that you used to complete this issue.
 
 -
 -
