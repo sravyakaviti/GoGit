@@ -1,3 +1,3 @@
 Srishti Dhir
-Second year student
+Second year student at IIIT Allahabad
 repo url:https://github.com/srishtayy/Opencodecreate.git
