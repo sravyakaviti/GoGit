@@ -3,8 +3,8 @@ Myself **Gude Lakshmi**
 
 Sophomore at IIITA
 
-Visit [here](https://github.com/gudelakshmi) to know about me
+Visit [here](https://github.com/gudelakshmi) to know more about me
 
-[Here](https://github.com/gudelakshmi/GoGit) is the url for this repo.
+Visit my OpenCode IIITA '21 GoGit repository at this [link](https://github.com/gudelakshmi/go-git)
 
 ***
