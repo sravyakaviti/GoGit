@@ -1,1 +1,0 @@
-Hello! This is Aviral Gupta. I am a 3rd year student at IIITA.
