@@ -5,5 +5,5 @@ Sophomore at IIITA
 
 Visit [here](https://github.com/nitheesh96) to know about me
 
-[Here](https://github.com/nitheesh96/GoGit) is the url for this repo.
+open code21 repo [link](https://github.com/nitheesh96/go-git)
 
